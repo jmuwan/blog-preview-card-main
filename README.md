@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Blog preview Card Design](https://github.com/jmuwan/blog-preview-card-main)
 - Live Site URL: [Frontend Mentor|Blog preview card](https://jmuwan.github.io/blog-preview-card-main/)
 
 ## My process
