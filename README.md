@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Frontend Mentor|Blog preview card](https://jmuwan.github.io/blog-preview-card-main/)
 
 ## My process
 - Firstly, Opened the downloaded files with VS code
